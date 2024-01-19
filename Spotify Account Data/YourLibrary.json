@@ -1,0 +1,377 @@
+{
+  "tracks": [
+    {
+      "artist": "KC Rebell",
+      "album": "Hasso",
+      "track": "DNA",
+      "uri": "spotify:track:6yL5RjG5eeFOE5iU7qPho8"
+    },
+    {
+      "artist": "Gripin",
+      "album": "Yalnızlığın Çaresini Bulmuşlar",
+      "track": "Aşk Nerden Nereye",
+      "uri": "spotify:track:6vFHg6OAyhAWUbigiz3gn8"
+    },
+    {
+      "artist": "JONY",
+      "album": "Комета",
+      "track": "Комета",
+      "uri": "spotify:track:4kbYbXKuHoVameRXatwbqo"
+    },
+    {
+      "artist": "emre aydın",
+      "album": "Kağıt Evler",
+      "track": "Son Defa",
+      "uri": "spotify:track:0wr0JTOlgZVYccny0GlL4T"
+    },
+    {
+      "artist": "Andrea Bocelli",
+      "album": "Romanza",
+      "track": "Con te partirò",
+      "uri": "spotify:track:6T720JbJdg8lB5kqfvh5mk"
+    },
+    {
+      "artist": "МОТ",
+      "album": "Добрая Музыка Клавиш",
+      "track": "Сопрано",
+      "uri": "spotify:track:5kLSshBGFxK7aSLF5yT1Kc"
+    },
+    {
+      "artist": "Hande Yener",
+      "album": "Beni Sev",
+      "track": "Beni Sev",
+      "uri": "spotify:track:0bE8X3KwUifITMaibVR9eD"
+    },
+    {
+      "artist": "Mari Kraimbrery",
+      "album": "Нас узнает весь мир (Part 1)",
+      "track": "Пряталась в ванной",
+      "uri": "spotify:track:2aoigOWMpTYjeuXGawJgtm"
+    },
+    {
+      "artist": "Soner Sarıkabadayı",
+      "album": "Taş",
+      "track": "Unuttun mu Beni?",
+      "uri": "spotify:track:4OVSRpV6vmF4wIkRdQ7HKZ"
+    },
+    {
+      "artist": "Şanışer",
+      "album": "Otuzuncu Gün",
+      "track": "Gel",
+      "uri": "spotify:track:3SsbiElZb2gUSd5i7BOSUC"
+    },
+    {
+      "artist": "Ka-Re",
+      "album": "Yarala Meni",
+      "track": "Yarala Meni",
+      "uri": "spotify:track:3BKna8zyfFcKOutoFowfHR"
+    },
+    {
+      "artist": "Zivert",
+      "album": "Многоточия (DFM Mix)",
+      "track": "Многоточия (DFM Mix)",
+      "uri": "spotify:track:45zJBZUa5GGbOkLehIThoh"
+    },
+    {
+      "artist": "Snelle",
+      "album": "Blijven Slapen",
+      "track": "Blijven Slapen",
+      "uri": "spotify:track:1Fc6lVQFPOcEVz3QWEzXWL"
+    },
+    {
+      "artist": "emre aydın",
+      "album": "Afili Yalnızlık",
+      "track": "Belki Bir Gün Özlersin",
+      "uri": "spotify:track:6uDFmDF4aB4viI0nKtyIsb"
+    },
+    {
+      "artist": "Dardan",
+      "album": "Malli",
+      "track": "Malli",
+      "uri": "spotify:track:5obtXG3NaPZykEFPWRPTPo"
+    },
+    {
+      "artist": "Misha Marvin",
+      "album": "Неправильная",
+      "track": "Неправильная",
+      "uri": "spotify:track:1okbp2zkYiycIo2K9OFfSf"
+    },
+    {
+      "artist": "Céline Dion",
+      "album": "The Colour Of My Love",
+      "track": "The Power of Love",
+      "uri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "artist": "Simge",
+      "album": "Yankı",
+      "track": "Yankı",
+      "uri": "spotify:track:4y3QBJf9E8yDJCEFbRK8xk"
+    },
+    {
+      "artist": "Hande Ünsal",
+      "album": "Nerdesin?",
+      "track": "Nerdesin?",
+      "uri": "spotify:track:1JMTy8NBsqXqG9bskcy9or"
+    },
+    {
+      "artist": "Misha Marvin",
+      "album": "Французский поцелуй",
+      "track": "Французский поцелуй",
+      "uri": "spotify:track:4zUp46ndZZrPFGktFmDtO1"
+    },
+    {
+      "artist": "EMIN",
+      "album": "Камин",
+      "track": "Камин - Radio DFM Mix",
+      "uri": "spotify:track:247nafZwNPeFF95mtqzjCs"
+    },
+    {
+      "artist": "JONY",
+      "album": "Список твоих мыслей",
+      "track": "Без тебя я не я",
+      "uri": "spotify:track:3Q7rxsGtlabDw0yBTnDnR5"
+    },
+    {
+      "artist": "Mars Deimos",
+      "album": "Мир сошёл с ума",
+      "track": "Мир сошёл с ума",
+      "uri": "spotify:track:55OJ2GZjN7CBrPbPTaT4hP"
+    },
+    {
+      "artist": "Maan",
+      "album": "Stiekem ft. Goldband",
+      "track": "Stiekem",
+      "uri": "spotify:track:1ulgMAx95xb3N33SMklfG3"
+    },
+    {
+      "artist": "Ludwig Göransson",
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "track": "Can You Hear The Music",
+      "uri": "spotify:track:4VnDmjYCZkyeqeb0NIKqdA"
+    },
+    {
+      "artist": "Rafet El Roman",
+      "album": "Sevgiye Zaman Ver",
+      "track": "Direniyorum",
+      "uri": "spotify:track:2gcVsbyo517zAHOyvGbZWB"
+    },
+    {
+      "artist": "Ludwig Göransson",
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "track": "American Prometheus",
+      "uri": "spotify:track:2nBqwc3h3psFgPF1J0v24T"
+    },
+    {
+      "artist": "Derya Uluğ",
+      "album": "Sana Çıkıyor Yollar",
+      "track": "Sana Çıkıyor Yollar - Kaderimin Oyunu Orijinal Dizi Müziği",
+      "uri": "spotify:track:7dvt5DT77W7neWuCfCUOYV"
+    },
+    {
+      "artist": "Mabel Matiz",
+      "album": "Maya",
+      "track": "Boyalı Da Saçların",
+      "uri": "spotify:track:14fulNBUnpogCPpN3BOBs6"
+    },
+    {
+      "artist": "Lusia Chebotina",
+      "album": "The End",
+      "track": "СОЛНЦЕ МОНАКО",
+      "uri": "spotify:track:2QIP61B5wwkbz0tOziQGyV"
+    },
+    {
+      "artist": "Andrea Bocelli",
+      "album": "Love In Portofino",
+      "track": "Love In Portofino",
+      "uri": "spotify:track:34btMnuONjpqdibkFGvFz5"
+    },
+    {
+      "artist": "HammAli & Navai",
+      "album": "Девочка-война",
+      "track": "Девочка-война",
+      "uri": "spotify:track:71Z2ZRUUqEbG2y42IFng81"
+    },
+    {
+      "artist": "Kolpa",
+      "album": "Yatağın Soğuk Tarafı",
+      "track": "Nasıl Öğrendin Unutmayı",
+      "uri": "spotify:track:2GwNK4kWQjCpX3EGKAywLV"
+    },
+    {
+      "artist": "Sezen Aksu",
+      "album": "Sen Ağlama",
+      "track": "Geri Dön",
+      "uri": "spotify:track:44xBxtfdZRhAXWvQD7I0x7"
+    },
+    {
+      "artist": "IVAN VALEEV",
+      "album": "WeLove",
+      "track": "Novella",
+      "uri": "spotify:track:0i2lbW33Ig9b4udnIBVQs8"
+    },
+    {
+      "artist": "Apache 207",
+      "album": "Kapitel I 2sad2disco (2sad2disco)",
+      "track": "2sad2disco",
+      "uri": "spotify:track:3HJKVymmisbtzi3s0hFCG4"
+    },
+    {
+      "artist": "Gripin",
+      "album": "Yalnızlığın Çaresini Bulmuşlar",
+      "track": "Vazgeçtim Ben Bugün",
+      "uri": "spotify:track:31KSA9U4SbUOlrjahunULK"
+    },
+    {
+      "artist": "Ludwig Göransson",
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "track": "Meeting Kitty",
+      "uri": "spotify:track:6iOuLRFr7G2bvUSOtYx4jw"
+    },
+    {
+      "artist": "Murat Göğebakan",
+      "album": "Aşkın Gözyaşları",
+      "track": "Vurgunum",
+      "uri": "spotify:track:3XnobOSpAH29582ys7xLaL"
+    },
+    {
+      "artist": "Gripin",
+      "album": "nasılım biliyor musun?",
+      "track": "Beni Boş Yere Yorma",
+      "uri": "spotify:track:2Rkn8OzxSzOoob7ZaoMba6"
+    },
+    {
+      "artist": "Toto Cutugno",
+      "album": "L'Italiano",
+      "track": "L'italiano",
+      "uri": "spotify:track:2S7RApTsKT0CtYojYq2cKz"
+    },
+    {
+      "artist": "HammAli & Navai",
+      "album": "Птичка",
+      "track": "Птичка",
+      "uri": "spotify:track:6Abmb1Nh7Bc5U6o4iEgSDH"
+    },
+    {
+      "artist": "Sting",
+      "album": "Ten Summoner's Tales",
+      "track": "Shape Of My Heart",
+      "uri": "spotify:track:6CKoWCWAqEVWVjpeoJXyNH"
+    },
+    {
+      "artist": "Zivert",
+      "album": "Vinyl #2",
+      "track": "ЯТЛ",
+      "uri": "spotify:track:5SH94SUgsy9GAGJah84Dum"
+    },
+    {
+      "artist": "Semicenk",
+      "album": "Bozulmuş Kalbim",
+      "track": "Bozulmuş Kalbim",
+      "uri": "spotify:track:6suiWjfetKjckJHGveNhI0"
+    },
+    {
+      "artist": "Grivina",
+      "album": "Я хочу",
+      "track": "Я хочу",
+      "uri": "spotify:track:2VCah7AThGKI2pCnLkrSOQ"
+    },
+    {
+      "artist": "Consuelo Velázquez",
+      "album": "Amor",
+      "track": "Bésame Mucho",
+      "uri": "spotify:track:5WHnE8MsLFHqSUwecrs7WO"
+    },
+    {
+      "artist": "Bahadır Sağlam",
+      "album": "Mavi",
+      "track": "Kır Papatyası",
+      "uri": "spotify:track:7wWRjhCpJEjExIUXK5UVVZ"
+    },
+    {
+      "artist": "Tarkan",
+      "album": "Aysel'in",
+      "track": "Firuze",
+      "uri": "spotify:track:0xfypT024i70Pj2end1rSQ"
+    },
+    {
+      "artist": "MATRANG",
+      "album": "ЭЙА",
+      "track": "Медуза",
+      "uri": "spotify:track:1sZsTb461mhIAQ8o0gzxsI"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Starboy",
+      "track": "Die For You",
+      "uri": "spotify:track:2LBqCSwhJGcFQeTHMVGwy3"
+    },
+    {
+      "artist": "TONI",
+      "album": "Зари",
+      "track": "Зари",
+      "uri": "spotify:track:0ycRFVhaWfaE9Te9OlO97s"
+    },
+    {
+      "artist": "Ямаджи",
+      "album": "Минимум",
+      "track": "Минимум - Ramzan Abitov Remix",
+      "uri": "spotify:track:2l0IvRqDNGQ63FaImXlHx9"
+    },
+    {
+      "artist": "Juju",
+      "album": "Vertrau mir",
+      "track": "Vertrau mir",
+      "uri": "spotify:track:1ueWZubKpdTGEz3AzgefB5"
+    },
+    {
+      "artist": "Seksendört",
+      "album": "Anlayamazsın",
+      "track": "Anlayamazsın",
+      "uri": "spotify:track:39DenhkBkmDsYBpl1rAchr"
+    },
+    {
+      "artist": "Kargo",
+      "album": "Yıldızların Altında",
+      "track": "Sen Ağlama",
+      "uri": "spotify:track:2em7ss3Tt70yTxgiHb2GBs"
+    },
+    {
+      "artist": "Ahmed Shad",
+      "album": "Стреляй",
+      "track": "Стреляй",
+      "uri": "spotify:track:1WcqxgKAHiC5bwElY533SE"
+    },
+    {
+      "artist": "Kris Kross Amsterdam",
+      "album": "Hij Is Van Mij (feat. Bizzey)",
+      "track": "Hij Is Van Mij (feat. Bizzey)",
+      "uri": "spotify:track:6716bTJI7qiHJFFSR0Ethe"
+    },
+    {
+      "artist": "JONY",
+      "album": "Ты беспощадна",
+      "track": "Ты беспощадна",
+      "uri": "spotify:track:6jTp9NnhGbKxwqnTfX3GJm"
+    }
+  ],
+  "albums": [
+  ],
+  "shows": [
+    {
+      "name": "Her Gün 10 Dakika Nutuk",
+      "publisher": "Erhan Gökay Aksoy",
+      "uri": "spotify:show:45xXZvUBRtn3wP2nnqYmf8"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
